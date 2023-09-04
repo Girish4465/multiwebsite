@@ -1,0 +1,27 @@
+body{
+    background-image: url(image.webp);
+    background-size: cover;
+}
+h1{
+    color: azure;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h2{
+ color: azure;
+    font-size: 20px;
+}
+form{
+    margin: 20px;
+    color: aquamarine;
+    padding: 10px;
+}
+lable{
+    color: antiquewhite;
+}
+img{
+    padding-top: 20px;
+}
+button{
+    color: azure;
+}
